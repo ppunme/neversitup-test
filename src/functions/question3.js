@@ -1,9 +1,9 @@
 const countSmileys = (arr) => {
   let count = 0;
-  const regex = /[:;][-~]?[)D]/;
+  const format = /[:;][-~]?[)D]/;
 
   arr.forEach((item) => {
-    if (item.match(regex)) {
+    if (item.match(format)) {
       count += 1;
     }
   });
