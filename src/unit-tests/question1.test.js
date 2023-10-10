@@ -1,4 +1,4 @@
-const permutations = require("../questions/question1");
+const permutations = require("../functions/question1");
 
 test("Permutations without duplicates", () => {
   const str = "abb";

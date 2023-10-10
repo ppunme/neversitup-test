@@ -6,17 +6,17 @@ This project contains a set of javascript functions with their unit tests using 
 
 1. Question 1: Permutations generator
 
-- File: 'question/question1.js'
+- File: 'functions/question1.js'
 - Test: 'unit-tests/question1.test.js'
 
 2. Question 2: Find the odd int from the given array of integers
 
-- File: 'question/question2.js'
+- File: 'functions/question2.js'
 - Test: 'unit-tests/question2.test.js'
 
 3. Question 3: Count the smiley faces from the given array
 
-- File: 'question/question3.js'
+- File: 'functions/question3.js'
 - Test: 'unit-tests/question3.test.js'
 
 ## Getting Started
